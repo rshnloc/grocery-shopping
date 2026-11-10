@@ -310,3 +310,4 @@ export const PantryView: React.FC<PantryViewProps> = ({
     </div>
   );
 };
+

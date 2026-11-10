@@ -435,3 +435,4 @@ export const RecipeView: React.FC<RecipeViewProps> = ({
     </div>
   );
 };
+

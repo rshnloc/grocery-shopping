@@ -149,3 +149,4 @@ grocery-shopping/
 - **No Credentials**: No API keys, passwords, database credentials, or tokens are required or stored in this repository.
 - **No PII**: All models and seeded entries are strictly generic food staples and mock data.
 - **Local Persistence**: All data is written only to a local SQLite database that never leaves your machine.
+

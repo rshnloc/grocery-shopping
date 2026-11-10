@@ -170,3 +170,4 @@ class SmartCategorySuggestion(BaseModel):
     estimated_shelf_life_days: int
     recommended_location: str
     unit: str
+

@@ -102,3 +102,4 @@ export const SmartWasteBanner: React.FC<SmartWasteBannerProps> = ({
     </div>
   );
 };
+

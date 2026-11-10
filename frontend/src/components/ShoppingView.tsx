@@ -435,3 +435,4 @@ export const ShoppingView: React.FC<ShoppingViewProps> = ({
     </div>
   );
 };
+

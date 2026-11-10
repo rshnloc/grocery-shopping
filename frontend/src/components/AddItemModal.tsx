@@ -344,3 +344,4 @@ export const AddItemModal: React.FC<AddItemModalProps> = ({
     </div>
   );
 };
+

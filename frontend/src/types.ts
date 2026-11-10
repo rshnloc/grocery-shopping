@@ -106,3 +106,4 @@ export interface ItemGuess {
   recommended_location: string;
   unit: string;
 }
+
